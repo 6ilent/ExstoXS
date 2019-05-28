@@ -1,0 +1,9 @@
+Package: com.zachatrocity.exsto
+Name: Exsto XS
+Depends: mobilesubstrate
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description: Unleash your folders
+Maintainer: 6ilent
+Author: Zach Russell
+Section: Tweaks
